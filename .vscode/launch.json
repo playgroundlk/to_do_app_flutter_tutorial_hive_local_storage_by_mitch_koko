@@ -1,0 +1,25 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "to_do_app_flutter_tutorial_hive_local_storage_by_mitch_koko",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "to_do_app_flutter_tutorial_hive_local_storage_by_mitch_koko (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "to_do_app_flutter_tutorial_hive_local_storage_by_mitch_koko (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}
